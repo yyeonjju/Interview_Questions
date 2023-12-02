@@ -6,3 +6,4 @@
 
 # Swift Interview Question
 - [class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/yyeonjju/Interview_Questions/issues/1)
+- [struct와 class와 enum의 차이를 설명하시오.](https://github.com/yyeonjju/Interview_Questions/issues/3)
