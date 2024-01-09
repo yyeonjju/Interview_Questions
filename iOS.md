@@ -5,6 +5,8 @@
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? ](https://github.com/yyeonjju/Interview_Questions/issues/4)
 - [mutating 키워드에 대해 설명하시오.](https://github.com/yyeonjju/Interview_Questions/issues/5)
 - [Swift가 함수를 실행시키는 3가지 방법과 특징](https://github.com/yyeonjju/Interview_Questions/issues/6)
+- [@Main에 대해서 설명하시오.](https://github.com/yyeonjju/Interview_Questions/issues/7)
+- [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의 역할은 무엇인가?](https://github.com/yyeonjju/Interview_Questions/issues/8)
 
 
 # Swift Interview Question
