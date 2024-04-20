@@ -21,4 +21,7 @@
 - [Generic을 활용한 protocol + struct의 성능 개선](https://github.com/yyeonjju/Interview_Questions/issues/12)
 - [선언형 프로그래밍이 가능하도록하는 Swiftgen ](https://github.com/yyeonjju/Interview_Questions/issues/15)
   - [SwiftGen의 Key와 SubKey](https://github.com/yyeonjju/Interview_Questions/issues/16)
-- 
+- [== 와 ===의 차이점](https://github.com/yyeonjju/Interview_Questions/issues/17)
+- [GCD와 동기/비동기적 프로그래밍](https://github.com/yyeonjju/Interview_Questions/issues/18)
+- [Swift의 구조화된 동시성(Structured Concurrency) 제공방법으로의 async-await](https://github.com/yyeonjju/Interview_Questions/issues/19)
+- [Meet async/await in Swift (WWDC 2021)](https://github.com/yyeonjju/Interview_Questions/issues/20)
