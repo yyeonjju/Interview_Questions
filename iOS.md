@@ -19,3 +19,6 @@
   - [프로토콜 타입의 struct를 저장하는 특이한 방법 Existential Container](https://github.com/yyeonjju/Interview_Questions/issues/10)
 - [Swift에서 성능을 좌우하는 3가지 요소와 프로토콜 채택에 따른 구조체의 성능 변화](https://github.com/yyeonjju/Interview_Questions/issues/11)
 - [Generic을 활용한 protocol + struct의 성능 개선](https://github.com/yyeonjju/Interview_Questions/issues/12)
+- [선언형 프로그래밍이 가능하도록하는 Swiftgen ](https://github.com/yyeonjju/Interview_Questions/issues/15)
+  - [SwiftGen의 Key와 SubKey](https://github.com/yyeonjju/Interview_Questions/issues/16)
+- 
