@@ -31,8 +31,14 @@
   - [Codable (feat. Encodable & Decodable), JSON이란?](https://heidi-dev.tistory.com/44)
   - [Hashable, HashTable](https://heidi-dev.tistory.com/45)
   - [Identifiable](https://heidi-dev.tistory.com/46)
- 
+- [CG, NS 의 차이 / Double, Float, CGFloat의 차이점](https://github.com/yyeonjju/Interview_Questions/issues/24)
 
 
 # Network 
 - [인증, 인가 / 쿠키, 세션, 토큰, JWT](https://github.com/yyeonjju/Interview_Questions/issues/21)
+
+
+
+# Git
+- [Merge의 종류 | fast-forward, 3-way merge](https://github.com/yyeonjju/Interview_Questions/issues/22)
+- [SCM(Software Configuration Management), VCS(Version Control System) 로서의 Git](https://github.com/yyeonjju/Interview_Questions/issues/23)
