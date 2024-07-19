@@ -32,6 +32,7 @@
   - [Hashable, HashTable](https://heidi-dev.tistory.com/45)
   - [Identifiable](https://heidi-dev.tistory.com/46)
 - [CG, NS 의 차이 / Double, Float, CGFloat의 차이점](https://github.com/yyeonjju/Interview_Questions/issues/24)
+- [이미지 로드하는 여러가지 방법과 NSCache ( + 스레드 priority inversion 이슈)](https://github.com/yyeonjju/Interview_Questions/issues/25)
 
 
 # Network 
